@@ -14,3 +14,9 @@ $ls -la
 
 $git status
 --> show the files updated
+
+$git add "file" or . for all
+--> to add a file to the repository
+--> validate with $git status
+
+$git commit -m "Info of the changes"
